@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>UBC Borealis: recently published datasets</title>
+    <link>https://borealisdata.ca/dataverse/ubc</link>
+    <description>The newest datasets published in the UBC collection on Borealis.</description>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 20 Oct 2026 20:35:36 +0000</lastBuildDate>
+    <item>
+      <title>Data and Code for "Staying warm takes precedence over growth in developing thirteen-lined ground squirrels (Ictidomys tridecemlineatus)"</title>
+      <link>https://doi.org/10.5683/SP4/U4T3XN</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/U4T3XN</guid>
+      <pubDate>Thu, 15 Oct 2026 22:40:59 +0000</pubDate>
+      <dc:creator>Li, Jessica L.; Marshall, Katie E.; Milsom, William K.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>Endogenous thermogenesis enables animals to regulate body temperature (TB) independent of environmental temperature. Altricial mammals are born ectotherms and develop endothermy postnatally. We hypothesized that the development of cold-induced endogenous thermogenesis would be metabolically demanding, and its timing in thirteen-lined ground squirrels (Ictidomys tridecemlineatus) would correlate…</description>
+    </item>
+    <item>
+      <title>Simulated data from: Evolutionary rescue in a consumer-resource system</title>
+      <link>https://doi.org/10.5683/SP4/FZCKDM</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/FZCKDM</guid>
+      <pubDate>Thu, 15 Oct 2026 16:26:11 +0000</pubDate>
+      <dc:creator>Hasan, Asad; Whitlock, Michael</dc:creator>
+      <category>UBC Dryad2Dataverse</category>
+      <description>Abstract Evolutionary rescue refers to the process by which a population that is declining towards extinction due to an environmental stressor adapts to said stressor, recovering in population size. Previous models of evolutionary rescue have typically modelled density-dependence using simple logistic growth-type models, assuming that an environmental change either affects the intrinsic growth…</description>
+    </item>
+    <item>
+      <title>Experimental Data for: Axial Cyclic Behaviour of Ultra-Ductile Connections for Precast Concrete Shear Walls</title>
+      <link>https://doi.org/10.5683/SP4/DCUS2Y</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/DCUS2Y</guid>
+      <pubDate>Wed, 14 Oct 2026 16:15:25 +0000</pubDate>
+      <dc:creator>Büker, Frank; Tobber, Lisa; Rodgers, Geoffrey</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>This repository contains experimental data from a test campaign investigating the cyclic performance of a novel ultra-ductile connector (UltraDC) developed for horizontal joints in precast concrete shear walls. The UltraDC consists of a cruciform steel yielding element housed within a hollow outer steel sleeve, which provides lateral restraint against buckling and serves as an anchorage mechanism…</description>
+    </item>
+    <item>
+      <title>Database: Studies on contaminants in wild berries in Canada</title>
+      <link>https://doi.org/10.5683/SP4/PX3ONT</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/PX3ONT</guid>
+      <pubDate>Wed, 14 Oct 2026 16:15:25 +0000</pubDate>
+      <dc:creator>James, Dana</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>There is an increasing interest in the presence of contaminants in the environment and how these are taken up in food webs. This issue is particularly important to land-based communities who rely directly on the land for access to culturally and nutritionally important country foods (e.g., through hunting, fishing, harvesting/gathering, etc.). This dataset shares data and metadata from a review…</description>
+    </item>
+    <item>
+      <title>A Retrospective Study of Smart Spot, a Bluetooth Low‑Energy Real‑Time Location System Supporting Quality Improvement Efforts in Uganda</title>
+      <link>https://doi.org/10.5683/SP3/MBNY9S</link>
+      <guid isPermaLink="false">doi:10.5683/SP3/MBNY9S</guid>
+      <pubDate>Tue, 13 Oct 2026 15:36:34 +0000</pubDate>
+      <dc:creator>Choi, Daniel; Tugume, Ediketh; Mwesigye, Isaac et al.</dc:creator>
+      <category>Smart Triage - Manuscripts</category>
+      <description>Background: Real-time location systems track the movement of assets and individuals and in high-income clinical settings, they have shown potential to improve patient flow. However, their use in low- and middle-income countries remains limited. Smart Spot, a low-cost Bluetooth Low-Energy real-time location system was integrated and deployed within the Smart Triage quality improvement platform in…</description>
+    </item>
+    <item>
+      <title>Supplemental data for: "Caring and killing: exploring human-animal relationships and moral distress in cattle veterinary practice"</title>
+      <link>https://doi.org/10.5683/SP4/GSE69K</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/GSE69K</guid>
+      <pubDate>Thu, 08 Oct 2026 21:49:11 +0000</pubDate>
+      <dc:creator>Bolton, Sarah; Quain, Anne; Weary, Daniel et al.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>This dataset contains the supplementary materials of the study: "Caring and killing: exploring human-animal relationships and moral distress in cattle veterinary practice". Abstract: Within cattle veterinary practice, the subjects of care constitute both sentient beings and individual commodity units that are usually destined for eventual slaughter. This paradox presents potential challenges,…</description>
+    </item>
+    <item>
+      <title>Replication Data for "ZooMS and mtDNA as a Tool to Explore the Exploitation of Cetaceans. A Case Study from Tierra del Fuego (Southern South America)"</title>
+      <link>https://doi.org/10.5683/SP3/RUHEWR</link>
+      <guid isPermaLink="false">doi:10.5683/SP3/RUHEWR</guid>
+      <pubDate>Wed, 07 Oct 2026 20:56:29 +0000</pubDate>
+      <dc:creator>Paz Martinoli, María; Zangrando, Atilio Francisco; Tivoli, Angélica M. et al.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>Cetacean remains are abundant in shell middens along the southern coast of Tierra del Fuego; yet, the specific roles of different species within local subsistence and technological systems remain insufficiently understood. This study integrates ZooMS and mitochondrial DNA analyses to identify cetacean species represented in three Late Holocene assemblages from the Heshkaia locality (Beagle…</description>
+    </item>
+    <item>
+      <title>Supplementary Data and Models for Li, Na, and K Cations and Bisulfide Anion in Aqueous Solutions</title>
+      <link>https://doi.org/10.5683/SP4/OQCRJN</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/OQCRJN</guid>
+      <pubDate>Tue, 06 Oct 2026 07:36:16 +0000</pubDate>
+      <dc:creator>Szilagyi, Robert</dc:creator>
+      <category>Quantum Chemical Representation of Environmental Aqueous Species</category>
+      <description>Quantum chemical data utilized in characterizing aqueous species for rationalizing [Fe-S]-maquette formation during the reductive dissolution of pyrite mineral. The interaction of the counterions (M+(aq), where M = Li, Na, K) and high levels of HS–(aq) were investigated using a set of density functionals that included representative set of advanced hybrid functionals with generalized-gradient…</description>
+    </item>
+    <item>
+      <title>AHMA - 2021 Census of Canada - Selected Characteristics of Census Households for Indigenous Housing Need - British Columbia at the Census Division (CD) and Census Subdivision (CSD) level [custom tabulation]</title>
+      <link>https://doi.org/10.5683/SP4/FORHWF</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/FORHWF</guid>
+      <pubDate>Mon, 05 Oct 2026 23:43:14 +0000</pubDate>
+      <dc:creator>Statistics Canada</dc:creator>
+      <category>Aboriginal Housing Management Association (AHMA) Collection</category>
+      <description>For more information, please visit www.ahma-bc.org. Aboriginal Housing Management Association (AHMA) This dataset contains 7 files representing two custom-ordered tables from Statistics Canada covering the 2021 Census of Canada. Three of the files contain data for the province of BC, census division, and census subdivision for the specifications in "Table 1" below, while the other four files have…</description>
+    </item>
+    <item>
+      <title>AHMA - 2016 Census of Canada - Selected Characteristics of Census Households for Indigenous Housing Need - British Columbia at the Census Division (CD) and Census Subdivision (CSD) level [custom tabulation]</title>
+      <link>https://doi.org/10.5683/SP4/2S94GM</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/2S94GM</guid>
+      <pubDate>Mon, 05 Oct 2026 23:43:08 +0000</pubDate>
+      <dc:creator>Statistics Canada</dc:creator>
+      <category>Aboriginal Housing Management Association (AHMA) Collection</category>
+      <description>For more information, please visit www.ahma-bc.org. Aboriginal Housing Management Association (AHMA) This dataset contains five files representing two custom-ordered tables from Statistics Canada covering the 2016 Census of Canada. Three of the files contain data for the province of BC, census division, and census subdivision for the specifications in "Table 3" below, while the other two files…</description>
+    </item>
+    <item>
+      <title>AHMA - 2006 Census of Canada - Selected Characteristics of Census Households for Indigenous Housing Need - British Columbia at the Census Division (CD) and Census Subdivision (CSD) level [custom tabulation]</title>
+      <link>https://doi.org/10.5683/SP4/ILYNT6</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/ILYNT6</guid>
+      <pubDate>Mon, 05 Oct 2026 23:42:51 +0000</pubDate>
+      <dc:creator>Statistics Canada</dc:creator>
+      <category>Aboriginal Housing Management Association (AHMA) Collection</category>
+      <description>For more information, please visit www.ahma-bc.org. Aboriginal Housing Management Association (AHMA) This dataset contains five files representing two custom-ordered tables from Statistics Canada covering the 2006 Census of Canada. Three of the files contain data for the province of BC, census division, and census subdivision for the specifications in "Table 5" below, while the other two files…</description>
+    </item>
+    <item>
+      <title>Long-term monitoring of macroalgal biodiversity in Stanley Park, Vancouver, British Columbia</title>
+      <link>https://doi.org/10.5683/SP3/IKGB6E</link>
+      <guid isPermaLink="false">doi:10.5683/SP3/IKGB6E</guid>
+      <pubDate>Mon, 05 Oct 2026 22:08:18 +0000</pubDate>
+      <dc:creator>Schenk, Siobhan; Supratya, Varoon P.; Kohn, Evan et al.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>The sampling was started by Varoon P. Supratya and Siobhan Schenk. Starting in September 2025, Evan Kohn, who has been very involved with the transects since 2023, is now co-leading the project. Macroalgae are marine foundation species in intertidal ecosystems, but data regarding their historical abundance, diversity, and phenology remains lacking in many regions, including British Columbia. This…</description>
+    </item>
+    <item>
+      <title>Supplemental data for: A labor of love? Gender, animal welfare, and the costs of caring in livestock veterinary practice</title>
+      <link>https://doi.org/10.5683/SP4/PFFSMJ</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/PFFSMJ</guid>
+      <pubDate>Thu, 01 Oct 2026 23:34:06 +0000</pubDate>
+      <dc:creator>Bolton, Sarah; Proudfoot, Kathryn; Bratton, Emma et al.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>This dataset contains the supplementary materials of the study: "A labor of love? Gender, animal welfare, and the costs of caring in livestock veterinary practice." Abstract: Human-animal interactions can exert both positive and negative influences on the welfare of animals. These interactions are shaped by human attitudes and behaviors that are, in turn, influenced by a multitude of factors,…</description>
+    </item>
+    <item>
+      <title>Data and code from: Plant species responses to nutrient addition, but not to herbivore exclusion, strengthen over time in global grasslands</title>
+      <link>https://doi.org/10.5683/SP4/8KIX4C</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/8KIX4C</guid>
+      <pubDate>Thu, 01 Oct 2026 16:26:15 +0000</pubDate>
+      <dc:creator>, Nutrient Network (NutNet); Borer, Elizabeth; Seabloom, Eric et al.</dc:creator>
+      <category>UBC Dryad2Dataverse</category>
+      <description>Abstract Nutrient enrichment and altered herbivory are among the most pervasive drivers of change in grasslands worldwide, yet how their effects on plant communities accumulate or fade over time, and which species drive those effects, remains poorly resolved. Using long-term data from the Nutrient Network (NutNet), a globally distributed experiment, we examined how grassland plant community…</description>
+    </item>
+    <item>
+      <title>Epidemiology of stillbirths and maternal post-discharge outcomes following stillbirths in Uganda: a prospective cohort study</title>
+      <link>https://doi.org/10.5683/SP4/4M2J8Y</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/4M2J8Y</guid>
+      <pubDate>Mon, 28 Sep 2026 16:40:24 +0000</pubDate>
+      <dc:creator>Twinamatsiko, Obed; Nguyen, Vuong; Komugisha, Clare et al.</dc:creator>
+      <category>Smart Discharges - Manuscripts</category>
+      <description>Background: Stillbirth remains a critical public health challenge in low-resource settings and is a significant cause of perinatal mortality, where gaps in antenatal care, healthcare access, and socioeconomic disparities exacerbate risks. Understanding maternal post-discharge outcomes and identifying modifiable predictors for stillbirths is essential to improve care pathways. Methods: This…</description>
+    </item>
+    <item>
+      <title>Data and code from: Grassland set-asides provide nesting habitat for bumble bees in agroecosystems</title>
+      <link>https://doi.org/10.5683/SP4/9ERGSF</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/9ERGSF</guid>
+      <pubDate>Fri, 25 Sep 2026 17:22:11 +0000</pubDate>
+      <dc:creator>Knoerr, Sarah; Melanson, Jenna; Carrillo, Juli et al.</dc:creator>
+      <category>UBC Dryad2Dataverse</category>
+      <description>Abstract Wild bee declines threaten pollination services in agricultural landscapes. The availability of adequate nesting habitat, especially within intensively farmed regions, has been identified as an area where more research is critically needed. We assessed the potential for grassland set-asides (GLSAs), an agricultural diversification practice that temporarily takes fields out of production…</description>
+    </item>
+    <item>
+      <title>Data from: North America defies a global trend of reduced vascular plant diversity in extreme environments: Are Asteraceae responsible?</title>
+      <link>https://doi.org/10.5683/SP4/NU4L0X</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/NU4L0X</guid>
+      <pubDate>Thu, 24 Sep 2026 16:52:43 +0000</pubDate>
+      <dc:creator>Mason, Chase; Edwards, Robert; Cartwright, Jennifer et al.</dc:creator>
+      <category>UBC Dryad2Dataverse</category>
+      <description>Abstract Premise of the study. It is generally assumed that more extreme environments are less habitable for a majority of organisms, leading to a decrease in biodiversity. However, definitions of extremeness are typically based on the abiotic tolerances of specific lineages, and thus may be partly circular and poorly applicable across global biodiversity. Here we test this assumption agnostic to…</description>
+    </item>
+    <item>
+      <title>Data from: Spatio-temporal dynamics of ringed seal density and habitat use in the Arctic’s Last Ice Area</title>
+      <link>https://doi.org/10.5683/SP4/E6Z7KP</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/E6Z7KP</guid>
+      <pubDate>Thu, 24 Sep 2026 16:41:00 +0000</pubDate>
+      <dc:creator>MacLean, Roxanne; Thiemann, Gregory; Ferguson, Steven et al.</dc:creator>
+      <category>UBC Dryad2Dataverse</category>
+      <description>Abstract Fisheries and Oceans Canada conducted aerial surveys between 2018 and 2024 in both spring and summer to quantify spatio-temporal variation in the density of the most abundant ice-associated mesopredator in the Arctic, ringed seals (Pusa hispida), and to model their habitat use relative to several habitat characteristics. Ringed seal density estimates were calculated per aerial transect…</description>
+    </item>
+    <item>
+      <title>Supplemental Data for: Diversity of non-protein amino acids across plants is driven by growth conditions and life strategies than phylogenetic relatedness.</title>
+      <link>https://doi.org/10.5683/SP4/RRWAHO</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/RRWAHO</guid>
+      <pubDate>Mon, 21 Sep 2026 22:19:28 +0000</pubDate>
+      <dc:creator>Sandhu, Pawanjit K; Gaudet, Daniel; Solonenka, Julia T et al.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>Non-protein amino acids (npAAs) are metabolites characterized by a common NHx-R-COOH formula that play significant roles in signaling, nitrogen storage, metabolism and ecosystem interactions. Plants are estimated to produce hundreds of npAAs, however exact diversity, distribution and prevalence remains unknown. Using liquid-chromatography tandem mass spectrometry (UHPLC-MS/MS) based untargeted…</description>
+    </item>
+    <item>
+      <title>Smart Triage: Pulse Oximetry Data - QI</title>
+      <link>https://doi.org/10.5683/SP4/QEQRJO</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/QEQRJO</guid>
+      <pubDate>Wed, 16 Sep 2026 16:32:15 +0000</pubDate>
+      <dc:creator>Kissoon, Niranjan; Kasyaba, Ronald; Kenya-Mugisha, Nathan et al.</dc:creator>
+      <category>Smart Triage - Processed Data</category>
+      <description>This data is a subset of the Smart Triage + QI: A digital triaging platform to improve quality of care for critically ill children study and contains pulse oximetry data in complement to the Smart Triage QI clinical dataset. Objective(s): This is a pre-post intervention study involving pediatric patients presenting to the study hospitals in seek of medical care for an acute illness. The purpose…</description>
+    </item>
+  </channel>
+</rss>
