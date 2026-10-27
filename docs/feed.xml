@@ -5,7 +5,16 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 27 Oct 2026 05:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:11:18 +0000</lastBuildDate>
+    <item>
+      <title>Supplementary Data for: Late-to-Post Trans-Hudson Evolution of the Narsajuaq Domain, Ungava Orogen, Northern Québec, Canada</title>
+      <link>https://doi.org/10.5683/SP4/WLKTRW</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/WLKTRW</guid>
+      <pubDate>Tue, 27 Oct 2026 21:43:41 +0000</pubDate>
+      <dc:creator>Therriault, Isabelle; Larson, Kyle; Jouhari, Mehdi et al.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>The late-stage tectonometamorphic evolution of the Paleoproterozoic Ungava orogen (UO), a segment of the Trans-Hudson orogen, remains poorly understood due to limited structural and geochronological data. This study presents new, integrated field-based mapping, microstructural characterization, thermometry, apatite and biotite trace element analysis, and in situ U-Pb and Rb-Sr geochronology to…</description>
+    </item>
     <item>
       <title>Data for: Mediterranean-ketogenic versus medium-chain triglyceride supplemented Mediterranean diet on the gut-brain-immune axis in Parkinson’s disease</title>
       <link>https://doi.org/10.5683/SP4/EKV3YZ</link>
@@ -176,15 +185,6 @@
       <dc:creator>MacLean, Roxanne; Thiemann, Gregory; Ferguson, Steven et al.</dc:creator>
       <category>UBC Dryad2Dataverse</category>
       <description>Abstract Fisheries and Oceans Canada conducted aerial surveys between 2018 and 2024 in both spring and summer to quantify spatio-temporal variation in the density of the most abundant ice-associated mesopredator in the Arctic, ringed seals (Pusa hispida), and to model their habitat use relative to several habitat characteristics. Ringed seal density estimates were calculated per aerial transect…</description>
-    </item>
-    <item>
-      <title>Supplemental Data for: Diversity of non-protein amino acids across plants is driven by growth conditions and life strategies than phylogenetic relatedness.</title>
-      <link>https://doi.org/10.5683/SP4/RRWAHO</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/RRWAHO</guid>
-      <pubDate>Mon, 21 Sep 2026 22:19:28 +0000</pubDate>
-      <dc:creator>Sandhu, Pawanjit K; Gaudet, Daniel; Solonenka, Julia T et al.</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>Non-protein amino acids (npAAs) are metabolites characterized by a common NHx-R-COOH formula that play significant roles in signaling, nitrogen storage, metabolism and ecosystem interactions. Plants are estimated to produce hundreds of npAAs, however exact diversity, distribution and prevalence remains unknown. Using liquid-chromatography tandem mass spectrometry (UHPLC-MS/MS) based untargeted…</description>
     </item>
   </channel>
 </rss>
