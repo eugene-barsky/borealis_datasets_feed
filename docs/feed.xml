@@ -5,7 +5,16 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 20 Oct 2026 20:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:00:12 +0000</lastBuildDate>
+    <item>
+      <title>Data for: Mediterranean-ketogenic versus medium-chain triglyceride supplemented Mediterranean diet on the gut-brain-immune axis in Parkinson’s disease</title>
+      <link>https://doi.org/10.5683/SP4/EKV3YZ</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/EKV3YZ</guid>
+      <pubDate>Mon, 26 Oct 2026 21:10:04 +0000</pubDate>
+      <dc:creator>Tosefsky, Kira; Schaffner, Samantha L.; Lam, Joyce S.T. et al.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>Ketogenic diets have been proposed as potential neuroprotective interventions for Parkinson’s disease (PD), but concerns remain regarding their effects on the gut microbiome and gut–brain–immune axis. We conducted a randomized crossover trial comparing 8-week Mediterranean-ketogenic (MeDi-KD) versus medium-chain triglyceride-supplemented Mediterranean (MeDi-MCT) diets, separated by an 8-week…</description>
+    </item>
     <item>
       <title>Data and Code for "Staying warm takes precedence over growth in developing thirteen-lined ground squirrels (Ictidomys tridecemlineatus)"</title>
       <link>https://doi.org/10.5683/SP4/U4T3XN</link>
@@ -176,15 +185,6 @@
       <dc:creator>Sandhu, Pawanjit K; Gaudet, Daniel; Solonenka, Julia T et al.</dc:creator>
       <category>UBC General Research Data Collection</category>
       <description>Non-protein amino acids (npAAs) are metabolites characterized by a common NHx-R-COOH formula that play significant roles in signaling, nitrogen storage, metabolism and ecosystem interactions. Plants are estimated to produce hundreds of npAAs, however exact diversity, distribution and prevalence remains unknown. Using liquid-chromatography tandem mass spectrometry (UHPLC-MS/MS) based untargeted…</description>
-    </item>
-    <item>
-      <title>Smart Triage: Pulse Oximetry Data - QI</title>
-      <link>https://doi.org/10.5683/SP4/QEQRJO</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/QEQRJO</guid>
-      <pubDate>Wed, 16 Sep 2026 16:32:15 +0000</pubDate>
-      <dc:creator>Kissoon, Niranjan; Kasyaba, Ronald; Kenya-Mugisha, Nathan et al.</dc:creator>
-      <category>Smart Triage - Processed Data</category>
-      <description>This data is a subset of the Smart Triage + QI: A digital triaging platform to improve quality of care for critically ill children study and contains pulse oximetry data in complement to the Smart Triage QI clinical dataset. Objective(s): This is a pre-post intervention study involving pediatric patients presenting to the study hospitals in seek of medical care for an acute illness. The purpose…</description>
     </item>
   </channel>
 </rss>
