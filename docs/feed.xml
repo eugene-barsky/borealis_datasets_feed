@@ -5,7 +5,34 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:11:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:43:21 +0000</lastBuildDate>
+    <item>
+      <title>Data from: Collaborative camera-trap detection data set for pumas across Latin America</title>
+      <link>https://doi.org/10.5683/SP4/KDEB13</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/KDEB13</guid>
+      <pubDate>Thu, 29 Oct 2026 18:35:37 +0000</pubDate>
+      <dc:creator>Ohrens, Omar; Williams, Sara; Elbroch, L. Mark et al.</dc:creator>
+      <category>UBC Dryad2Dataverse</category>
+      <description>Abstract This dataset comprises a comprehensive collection of puma (Puma concolor) detections obtained from camera-trap surveys across Latin America, encompassing over 1,169,563 camera trap nights across 19 countries, spanning from northern Sonora, Mexico, to southern Patagonia, Chile. The compiled dataset includes 12,312 unique puma detections, together with associated sampling metadata and…</description>
+    </item>
+    <item>
+      <title>Data from: Showy milkweed (&lt;em&gt;Asclepias speciosa&lt;/em&gt;) distribution and insect community composition at the northern range of the western monarch butterfly (&lt;em&gt;Danaus plexippus&lt;/em&gt;)</title>
+      <link>https://doi.org/10.5683/SP4/PNLVAM</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/PNLVAM</guid>
+      <pubDate>Thu, 29 Oct 2026 18:33:39 +0000</pubDate>
+      <dc:creator>Sieg, Julie; Dixon, Cori; Elwell, Sue et al.</dc:creator>
+      <category>UBC Dryad2Dataverse</category>
+      <description>Abstract The monarch butterfly (Danaus plexippus) is one of the most iconic butterflies worldwide. Alarmingly, the North American population has declined steadily over the last three decades. The western population in particular has fallen substantially from overwintering numbers in the millions to less than 10,000. Most research on monarch butterfly ecology has focused on the eastern population.…</description>
+    </item>
+    <item>
+      <title>Replication Data for: “Adopting stroke-specific community-based exercise programs and hospital referral pathways: an implementation study of the Fitness and Mobility Exercise (FAME) Program”</title>
+      <link>https://doi.org/10.5683/SP4/0N1LOA</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/0N1LOA</guid>
+      <pubDate>Thu, 29 Oct 2026 17:37:30 +0000</pubDate>
+      <dc:creator>Eng, Janice</dc:creator>
+      <category>Janice Eng's Dataverse</category>
+      <description>This dataset is for the article entitled: “Adopting stroke-specific community-based exercise programs and hospital referral pathways: an implementation study of the Fitness and Mobility Exercise (FAME) Program”. Contact: Dr. Janice Eng, Department of Physical Therapy, UBC. 212-2177 Wesbrook Mall, Vancouver, BC, V6T 1Z3. Tel: 604-714-4117.</description>
+    </item>
     <item>
       <title>Supplementary Data for: Late-to-Post Trans-Hudson Evolution of the Narsajuaq Domain, Ungava Orogen, Northern Québec, Canada</title>
       <link>https://doi.org/10.5683/SP4/WLKTRW</link>
@@ -158,33 +185,6 @@
       <dc:creator>Twinamatsiko, Obed; Nguyen, Vuong; Komugisha, Clare et al.</dc:creator>
       <category>Smart Discharges - Manuscripts</category>
       <description>Background: Stillbirth remains a critical public health challenge in low-resource settings and is a significant cause of perinatal mortality, where gaps in antenatal care, healthcare access, and socioeconomic disparities exacerbate risks. Understanding maternal post-discharge outcomes and identifying modifiable predictors for stillbirths is essential to improve care pathways. Methods: This…</description>
-    </item>
-    <item>
-      <title>Data and code from: Grassland set-asides provide nesting habitat for bumble bees in agroecosystems</title>
-      <link>https://doi.org/10.5683/SP4/9ERGSF</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/9ERGSF</guid>
-      <pubDate>Fri, 25 Sep 2026 17:22:11 +0000</pubDate>
-      <dc:creator>Knoerr, Sarah; Melanson, Jenna; Carrillo, Juli et al.</dc:creator>
-      <category>UBC Dryad2Dataverse</category>
-      <description>Abstract Wild bee declines threaten pollination services in agricultural landscapes. The availability of adequate nesting habitat, especially within intensively farmed regions, has been identified as an area where more research is critically needed. We assessed the potential for grassland set-asides (GLSAs), an agricultural diversification practice that temporarily takes fields out of production…</description>
-    </item>
-    <item>
-      <title>Data from: North America defies a global trend of reduced vascular plant diversity in extreme environments: Are Asteraceae responsible?</title>
-      <link>https://doi.org/10.5683/SP4/NU4L0X</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/NU4L0X</guid>
-      <pubDate>Thu, 24 Sep 2026 16:52:43 +0000</pubDate>
-      <dc:creator>Mason, Chase; Edwards, Robert; Cartwright, Jennifer et al.</dc:creator>
-      <category>UBC Dryad2Dataverse</category>
-      <description>Abstract Premise of the study. It is generally assumed that more extreme environments are less habitable for a majority of organisms, leading to a decrease in biodiversity. However, definitions of extremeness are typically based on the abiotic tolerances of specific lineages, and thus may be partly circular and poorly applicable across global biodiversity. Here we test this assumption agnostic to…</description>
-    </item>
-    <item>
-      <title>Data from: Spatio-temporal dynamics of ringed seal density and habitat use in the Arctic’s Last Ice Area</title>
-      <link>https://doi.org/10.5683/SP4/E6Z7KP</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/E6Z7KP</guid>
-      <pubDate>Thu, 24 Sep 2026 16:41:00 +0000</pubDate>
-      <dc:creator>MacLean, Roxanne; Thiemann, Gregory; Ferguson, Steven et al.</dc:creator>
-      <category>UBC Dryad2Dataverse</category>
-      <description>Abstract Fisheries and Oceans Canada conducted aerial surveys between 2018 and 2024 in both spring and summer to quantify spatio-temporal variation in the density of the most abundant ice-associated mesopredator in the Arctic, ringed seals (Pusa hispida), and to model their habitat use relative to several habitat characteristics. Ringed seal density estimates were calculated per aerial transect…</description>
     </item>
   </channel>
 </rss>
