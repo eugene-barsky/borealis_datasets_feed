@@ -5,12 +5,21 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 29 Oct 2026 22:43:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:39:01 +0000</lastBuildDate>
+    <item>
+      <title>Data for: Checklist of non-fish marine species from the Saint Pierre and Miquelon archipelago</title>
+      <link>https://doi.org/10.5683/SP4/FW0YBA</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/FW0YBA</guid>
+      <pubDate>Thu, 05 Nov 2026 23:48:30 +0000</pubDate>
+      <dc:creator>Rossi, Anna Luna; Pauly, Daniel; Bailly, Nicolas et al.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>Saint Pierre and Miquelon (SPM), a sub-Arctic French archipelago on the Grand Banks of Newfoundland, hosts a dynamic marine ecosystem shaped by strong thermal stratification and contrasting oceanographic regimes. Despite its ecological importance and long history of fisheries, marine biodiversity in SPM has remained poorly documented in global databases. This study compiles the first…</description>
+    </item>
     <item>
       <title>Data from: Collaborative camera-trap detection data set for pumas across Latin America</title>
       <link>https://doi.org/10.5683/SP4/KDEB13</link>
       <guid isPermaLink="false">doi:10.5683/SP4/KDEB13</guid>
-      <pubDate>Thu, 29 Oct 2026 18:35:37 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 22:02:36 +0000</pubDate>
       <dc:creator>Ohrens, Omar; Williams, Sara; Elbroch, L. Mark et al.</dc:creator>
       <category>UBC Dryad2Dataverse</category>
       <description>Abstract This dataset comprises a comprehensive collection of puma (Puma concolor) detections obtained from camera-trap surveys across Latin America, encompassing over 1,169,563 camera trap nights across 19 countries, spanning from northern Sonora, Mexico, to southern Patagonia, Chile. The compiled dataset includes 12,312 unique puma detections, together with associated sampling metadata and…</description>
@@ -176,15 +185,6 @@
       <dc:creator>, Nutrient Network (NutNet); Borer, Elizabeth; Seabloom, Eric et al.</dc:creator>
       <category>UBC Dryad2Dataverse</category>
       <description>Abstract Nutrient enrichment and altered herbivory are among the most pervasive drivers of change in grasslands worldwide, yet how their effects on plant communities accumulate or fade over time, and which species drive those effects, remains poorly resolved. Using long-term data from the Nutrient Network (NutNet), a globally distributed experiment, we examined how grassland plant community…</description>
-    </item>
-    <item>
-      <title>Epidemiology of stillbirths and maternal post-discharge outcomes following stillbirths in Uganda: a prospective cohort study</title>
-      <link>https://doi.org/10.5683/SP4/4M2J8Y</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/4M2J8Y</guid>
-      <pubDate>Mon, 28 Sep 2026 16:40:24 +0000</pubDate>
-      <dc:creator>Twinamatsiko, Obed; Nguyen, Vuong; Komugisha, Clare et al.</dc:creator>
-      <category>Smart Discharges - Manuscripts</category>
-      <description>Background: Stillbirth remains a critical public health challenge in low-resource settings and is a significant cause of perinatal mortality, where gaps in antenatal care, healthcare access, and socioeconomic disparities exacerbate risks. Understanding maternal post-discharge outcomes and identifying modifiable predictors for stillbirths is essential to improve care pathways. Methods: This…</description>
     </item>
   </channel>
 </rss>
