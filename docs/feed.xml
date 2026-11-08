@@ -5,7 +5,34 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:39:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 05:57:33 +0000</lastBuildDate>
+    <item>
+      <title>MMNRP French Metaphor Repository</title>
+      <link>https://doi.org/10.5683/SP4/3WGTJ7</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/3WGTJ7</guid>
+      <pubDate>Sun, 08 Nov 2026 05:50:59 +0000</pubDate>
+      <dc:creator>Stickles, Elise</dc:creator>
+      <category>MetaNet: The UBC Multilingual Metaphor Network Repository Project</category>
+      <description>French-language data from the UBC MMNRP French Metaphor Repository. Example data comes from sources in Canada and France, collected between 2022-2026. Types of data sources include news media, social media, fiction, and non-fiction texts. Manual annotation of each example text identifies the source domain-evoking language within the example and the provenance of the data, including a permanent…</description>
+    </item>
+    <item>
+      <title>MMNRP Spanish Metaphor Repository</title>
+      <link>https://doi.org/10.5683/SP4/WHQPNG</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/WHQPNG</guid>
+      <pubDate>Sun, 08 Nov 2026 05:50:46 +0000</pubDate>
+      <dc:creator>Stickles, Elise</dc:creator>
+      <category>MetaNet: The UBC Multilingual Metaphor Network Repository Project</category>
+      <description>Spanish-language data from the UBC MMNRP Spanish Metaphor Repository. Example data comes from American (United States) and Mexican sources, collected between 2012-2026. Types of data sources include news media, social media, fiction, and non-fiction texts. Manual annotation of each example text identifies the source domain-evoking language within the example and the provenance of the data,…</description>
+    </item>
+    <item>
+      <title>MMNRP English Metaphor Repository</title>
+      <link>https://doi.org/10.5683/SP4/E1Z4QQ</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/E1Z4QQ</guid>
+      <pubDate>Sun, 08 Nov 2026 05:50:07 +0000</pubDate>
+      <dc:creator>Stickles, Elise</dc:creator>
+      <category>MetaNet: The UBC Multilingual Metaphor Network Repository Project</category>
+      <description>English-language data from the UBC MMNRP English Metaphor Repository. Example data comes from American (United States) and Canadian sources, collected between 2012-2026. Types of data sources include news media, social media, fiction, and non-fiction texts. Manual annotation of each example text identifies the source domain-evoking language within the example; a basic constructional analysis;…</description>
+    </item>
     <item>
       <title>Data for: Checklist of non-fish marine species from the Saint Pierre and Miquelon archipelago</title>
       <link>https://doi.org/10.5683/SP4/FW0YBA</link>
@@ -158,33 +185,6 @@
       <dc:creator>Statistics Canada</dc:creator>
       <category>Aboriginal Housing Management Association (AHMA) Collection</category>
       <description>For more information, please visit www.ahma-bc.org. Aboriginal Housing Management Association (AHMA) This dataset contains five files representing two custom-ordered tables from Statistics Canada covering the 2006 Census of Canada. Three of the files contain data for the province of BC, census division, and census subdivision for the specifications in "Table 5" below, while the other two files…</description>
-    </item>
-    <item>
-      <title>Long-term monitoring of macroalgal biodiversity in Stanley Park, Vancouver, British Columbia</title>
-      <link>https://doi.org/10.5683/SP3/IKGB6E</link>
-      <guid isPermaLink="false">doi:10.5683/SP3/IKGB6E</guid>
-      <pubDate>Mon, 05 Oct 2026 22:08:18 +0000</pubDate>
-      <dc:creator>Schenk, Siobhan; Supratya, Varoon P.; Kohn, Evan et al.</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>The sampling was started by Varoon P. Supratya and Siobhan Schenk. Starting in September 2025, Evan Kohn, who has been very involved with the transects since 2023, is now co-leading the project. Macroalgae are marine foundation species in intertidal ecosystems, but data regarding their historical abundance, diversity, and phenology remains lacking in many regions, including British Columbia. This…</description>
-    </item>
-    <item>
-      <title>Supplemental data for: A labor of love? Gender, animal welfare, and the costs of caring in livestock veterinary practice</title>
-      <link>https://doi.org/10.5683/SP4/PFFSMJ</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/PFFSMJ</guid>
-      <pubDate>Thu, 01 Oct 2026 23:34:06 +0000</pubDate>
-      <dc:creator>Bolton, Sarah; Proudfoot, Kathryn; Bratton, Emma et al.</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>This dataset contains the supplementary materials of the study: "A labor of love? Gender, animal welfare, and the costs of caring in livestock veterinary practice." Abstract: Human-animal interactions can exert both positive and negative influences on the welfare of animals. These interactions are shaped by human attitudes and behaviors that are, in turn, influenced by a multitude of factors,…</description>
-    </item>
-    <item>
-      <title>Data and code from: Plant species responses to nutrient addition, but not to herbivore exclusion, strengthen over time in global grasslands</title>
-      <link>https://doi.org/10.5683/SP4/8KIX4C</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/8KIX4C</guid>
-      <pubDate>Thu, 01 Oct 2026 16:26:15 +0000</pubDate>
-      <dc:creator>, Nutrient Network (NutNet); Borer, Elizabeth; Seabloom, Eric et al.</dc:creator>
-      <category>UBC Dryad2Dataverse</category>
-      <description>Abstract Nutrient enrichment and altered herbivory are among the most pervasive drivers of change in grasslands worldwide, yet how their effects on plant communities accumulate or fade over time, and which species drive those effects, remains poorly resolved. Using long-term data from the Nutrient Network (NutNet), a globally distributed experiment, we examined how grassland plant community…</description>
     </item>
   </channel>
 </rss>
