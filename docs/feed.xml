@@ -5,7 +5,25 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 08 Nov 2026 05:57:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:41:55 +0000</lastBuildDate>
+    <item>
+      <title>Replication Data for: Decoding individual dairy cow behavioral profiles through electronic feeder and drinker data</title>
+      <link>https://doi.org/10.5683/SP3/K6J350</link>
+      <guid isPermaLink="false">doi:10.5683/SP3/K6J350</guid>
+      <pubDate>Tue, 10 Nov 2026 19:21:59 +0000</pubDate>
+      <dc:creator>Sheng, Kehan Sky; Borbala Foris; Daniel M. Weary et al.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>Individual animals can differ considerably in how they feed, drink, and compete for resources, yet much data analysis still relies on group-level comparisons that obscure these individual differences. Electronic feeding and drinking systems make it possible to characterize individual behavioral profiles within groups. Using 107 lactating Holstein dairy cows tracked over 207 d, we extracted 16…</description>
+    </item>
+    <item>
+      <title>Replication Data for: moo4feed R package</title>
+      <link>https://doi.org/10.5683/SP3/LF4DRO</link>
+      <guid isPermaLink="false">doi:10.5683/SP3/LF4DRO</guid>
+      <pubDate>Tue, 10 Nov 2026 19:18:16 +0000</pubDate>
+      <dc:creator>Sheng, Kehan Sky; Borbala Foris; Daniel M. Weary et al.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>Individual animals can differ considerably in how they feed, drink, and compete for resources, yet much data analysis still relies on group-level comparisons that obscure these individual differences. Electronic feeding and drinking systems make it possible to characterize individual behavioral profiles within groups. Using 107 lactating Holstein dairy cows tracked over 207 d, we extracted 16…</description>
+    </item>
     <item>
       <title>MMNRP French Metaphor Repository</title>
       <link>https://doi.org/10.5683/SP4/3WGTJ7</link>
@@ -167,24 +185,6 @@
       <dc:creator>Statistics Canada</dc:creator>
       <category>Aboriginal Housing Management Association (AHMA) Collection</category>
       <description>For more information, please visit www.ahma-bc.org. Aboriginal Housing Management Association (AHMA) This dataset contains 7 files representing two custom-ordered tables from Statistics Canada covering the 2021 Census of Canada. Three of the files contain data for the province of BC, census division, and census subdivision for the specifications in "Table 1" below, while the other four files have…</description>
-    </item>
-    <item>
-      <title>AHMA - 2016 Census of Canada - Selected Characteristics of Census Households for Indigenous Housing Need - British Columbia at the Census Division (CD) and Census Subdivision (CSD) level [custom tabulation]</title>
-      <link>https://doi.org/10.5683/SP4/2S94GM</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/2S94GM</guid>
-      <pubDate>Mon, 05 Oct 2026 23:43:08 +0000</pubDate>
-      <dc:creator>Statistics Canada</dc:creator>
-      <category>Aboriginal Housing Management Association (AHMA) Collection</category>
-      <description>For more information, please visit www.ahma-bc.org. Aboriginal Housing Management Association (AHMA) This dataset contains five files representing two custom-ordered tables from Statistics Canada covering the 2016 Census of Canada. Three of the files contain data for the province of BC, census division, and census subdivision for the specifications in "Table 3" below, while the other two files…</description>
-    </item>
-    <item>
-      <title>AHMA - 2006 Census of Canada - Selected Characteristics of Census Households for Indigenous Housing Need - British Columbia at the Census Division (CD) and Census Subdivision (CSD) level [custom tabulation]</title>
-      <link>https://doi.org/10.5683/SP4/ILYNT6</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/ILYNT6</guid>
-      <pubDate>Mon, 05 Oct 2026 23:42:51 +0000</pubDate>
-      <dc:creator>Statistics Canada</dc:creator>
-      <category>Aboriginal Housing Management Association (AHMA) Collection</category>
-      <description>For more information, please visit www.ahma-bc.org. Aboriginal Housing Management Association (AHMA) This dataset contains five files representing two custom-ordered tables from Statistics Canada covering the 2006 Census of Canada. Three of the files contain data for the province of BC, census division, and census subdivision for the specifications in "Table 5" below, while the other two files…</description>
     </item>
   </channel>
 </rss>
