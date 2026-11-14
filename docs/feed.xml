@@ -5,7 +5,25 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 12 Nov 2026 23:36:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:17:48 +0000</lastBuildDate>
+    <item>
+      <title>UBC Library guide: File naming</title>
+      <link>https://doi.org/10.5683/SP4/SP73CF</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/SP73CF</guid>
+      <pubDate>Sat, 14 Nov 2026 00:13:01 +0000</pubDate>
+      <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This practical guide, created by the UBC Library Research Data Management team, introduces strategies for consistent and meaningful file naming to support better research organization, collaboration, and long-term data reuse. Designed for graduate students, researchers, and staff, this guide helps researchers avoid common pitfalls and adopt best practices in their research workflows. In this…</description>
+    </item>
+    <item>
+      <title>UBC Library guide: File formats</title>
+      <link>https://doi.org/10.5683/SP4/TQN4SZ</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/TQN4SZ</guid>
+      <pubDate>Sat, 14 Nov 2026 00:12:30 +0000</pubDate>
+      <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This practical guide, created by the UBC Library Research Data Management team, explores how selecting the right file formats can support long-term preservation, data sharing, and reuse. Designed for graduate students, researchers, and staff, the guide highlights best practices for choosing formats that align with FAIR data principles. Users will learn how to identify preferred file formats for…</description>
+    </item>
     <item>
       <title>Data and code from: Is it a "hybrid swarm"? Opportunities for more informative terminology in conservation genomics</title>
       <link>https://doi.org/10.5683/SP4/MUXE7K</link>
@@ -167,24 +185,6 @@
       <dc:creator>Bolton, Sarah; Quain, Anne; Weary, Daniel et al.</dc:creator>
       <category>UBC General Research Data Collection</category>
       <description>This dataset contains the supplementary materials of the study: "Caring and killing: exploring human-animal relationships and moral distress in cattle veterinary practice". Abstract: Within cattle veterinary practice, the subjects of care constitute both sentient beings and individual commodity units that are usually destined for eventual slaughter. This paradox presents potential challenges,…</description>
-    </item>
-    <item>
-      <title>Replication Data for "ZooMS and mtDNA as a Tool to Explore the Exploitation of Cetaceans. A Case Study from Tierra del Fuego (Southern South America)"</title>
-      <link>https://doi.org/10.5683/SP3/RUHEWR</link>
-      <guid isPermaLink="false">doi:10.5683/SP3/RUHEWR</guid>
-      <pubDate>Wed, 07 Oct 2026 20:56:29 +0000</pubDate>
-      <dc:creator>Paz Martinoli, María; Zangrando, Atilio Francisco; Tivoli, Angélica M. et al.</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>Cetacean remains are abundant in shell middens along the southern coast of Tierra del Fuego; yet, the specific roles of different species within local subsistence and technological systems remain insufficiently understood. This study integrates ZooMS and mitochondrial DNA analyses to identify cetacean species represented in three Late Holocene assemblages from the Heshkaia locality (Beagle…</description>
-    </item>
-    <item>
-      <title>Supplementary Data and Models for Li, Na, and K Cations and Bisulfide Anion in Aqueous Solutions</title>
-      <link>https://doi.org/10.5683/SP4/OQCRJN</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/OQCRJN</guid>
-      <pubDate>Tue, 06 Oct 2026 07:36:16 +0000</pubDate>
-      <dc:creator>Szilagyi, Robert</dc:creator>
-      <category>Quantum Chemical Representation of Environmental Aqueous Species</category>
-      <description>Quantum chemical data utilized in characterizing aqueous species for rationalizing [Fe-S]-maquette formation during the reductive dissolution of pyrite mineral. The interaction of the counterions (M+(aq), where M = Li, Na, K) and high levels of HS–(aq) were investigated using a set of density functionals that included representative set of advanced hybrid functionals with generalized-gradient…</description>
     </item>
   </channel>
 </rss>
