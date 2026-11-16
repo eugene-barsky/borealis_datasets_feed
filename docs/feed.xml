@@ -5,7 +5,16 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:58:45 +0000</lastBuildDate>
+    <item>
+      <title>Supplemental material for: Post-partum mood states of dairy cows: effects of separation from the calf and consistency over time</title>
+      <link>https://doi.org/10.5683/SP4/MM4DU0</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/MM4DU0</guid>
+      <pubDate>Mon, 16 Nov 2026 19:57:35 +0000</pubDate>
+      <dc:creator>Suchon, Malina; Weary, Daniel; von Keyserlingk, Marina AG</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>Following calving, dairy cows are exposed to multiple stressors, including pain, unstable social groups and separation from their calf. How these stressors affect mood states and how such effects evolve over time remain poorly understood. We investigated the effects of cow-calf contact duration before separation and time post-calving on dairy cows’ mood states, assessed through reward sensitivity…</description>
+    </item>
     <item>
       <title>UBC Library guide: File naming</title>
       <link>https://doi.org/10.5683/SP4/SP73CF</link>
@@ -176,15 +185,6 @@
       <dc:creator>Choi, Daniel; Tugume, Ediketh; Mwesigye, Isaac et al.</dc:creator>
       <category>Smart Triage - Manuscripts</category>
       <description>Background: Real-time location systems track the movement of assets and individuals and in high-income clinical settings, they have shown potential to improve patient flow. However, their use in low- and middle-income countries remains limited. Smart Spot, a low-cost Bluetooth Low-Energy real-time location system was integrated and deployed within the Smart Triage quality improvement platform in…</description>
-    </item>
-    <item>
-      <title>Supplemental data for: "Caring and killing: exploring human-animal relationships and moral distress in cattle veterinary practice"</title>
-      <link>https://doi.org/10.5683/SP4/GSE69K</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/GSE69K</guid>
-      <pubDate>Thu, 08 Oct 2026 21:49:11 +0000</pubDate>
-      <dc:creator>Bolton, Sarah; Quain, Anne; Weary, Daniel et al.</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>This dataset contains the supplementary materials of the study: "Caring and killing: exploring human-animal relationships and moral distress in cattle veterinary practice". Abstract: Within cattle veterinary practice, the subjects of care constitute both sentient beings and individual commodity units that are usually destined for eventual slaughter. This paradox presents potential challenges,…</description>
     </item>
   </channel>
 </rss>
