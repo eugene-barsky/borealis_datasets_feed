@@ -5,7 +5,16 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 18 Nov 2026 07:23:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:28:24 +0000</lastBuildDate>
+    <item>
+      <title>Supplemental data for: Cell death and growth dynamics shape DNA-replication-based estimates of microbial growth</title>
+      <link>https://doi.org/10.5683/SP3/QXMR2I</link>
+      <guid isPermaLink="false">doi:10.5683/SP3/QXMR2I</guid>
+      <pubDate>Wed, 18 Nov 2026 17:17:54 +0000</pubDate>
+      <dc:creator>Hunter, Michael; Ghezzi, Hans; Jain, Asmita et al.</dc:creator>
+      <category>Tropini Lab Dataverse </category>
+      <description>A widely used approach for estimating bacterial growth rates is the origin-to-terminus ratio, or peak-to-trough ratio (PTR), which estimates DNA replication activity from origin and terminus copy numbers. Although PTR is theoretically related to bacterial growth rate, it is often compared with, or used to reason about, changes in population size, which reflect the balance between cell division…</description>
+    </item>
     <item>
       <title>UBC Library guide: README files</title>
       <link>https://doi.org/10.5683/SP4/VCP9BO</link>
@@ -176,15 +185,6 @@
       <dc:creator>Büker, Frank; Tobber, Lisa; Rodgers, Geoffrey</dc:creator>
       <category>UBC General Research Data Collection</category>
       <description>This repository contains experimental data from a test campaign investigating the cyclic performance of a novel ultra-ductile connector (UltraDC) developed for horizontal joints in precast concrete shear walls. The UltraDC consists of a cruciform steel yielding element housed within a hollow outer steel sleeve, which provides lateral restraint against buckling and serves as an anchorage mechanism…</description>
-    </item>
-    <item>
-      <title>Database: Studies on contaminants in wild berries in Canada</title>
-      <link>https://doi.org/10.5683/SP4/PX3ONT</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/PX3ONT</guid>
-      <pubDate>Wed, 14 Oct 2026 16:15:25 +0000</pubDate>
-      <dc:creator>James, Dana</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>There is an increasing interest in the presence of contaminants in the environment and how these are taken up in food webs. This issue is particularly important to land-based communities who rely directly on the land for access to culturally and nutritionally important country foods (e.g., through hunting, fishing, harvesting/gathering, etc.). This dataset shares data and metadata from a review…</description>
     </item>
   </channel>
 </rss>
