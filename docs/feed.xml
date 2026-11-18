@@ -5,7 +5,16 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 16 Nov 2026 21:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:23:43 +0000</lastBuildDate>
+    <item>
+      <title>UBC Library guide: README files</title>
+      <link>https://doi.org/10.5683/SP4/VCP9BO</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/VCP9BO</guid>
+      <pubDate>Wed, 18 Nov 2026 03:05:17 +0000</pubDate>
+      <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This guide, created by the UBC Library Research Data Management team, introduces the importance of README files in documenting research data for long-term access and reuse. Designed for graduate students, researchers, and staff, the guide provides practical guidance for creating clear, consistent, and useful data documentation. Users will learn how to identify the key components of an effective…</description>
+    </item>
     <item>
       <title>Supplemental material for: Post-partum mood states of dairy cows: effects of separation from the calf and consistency over time</title>
       <link>https://doi.org/10.5683/SP4/MM4DU0</link>
@@ -176,15 +185,6 @@
       <dc:creator>James, Dana</dc:creator>
       <category>UBC General Research Data Collection</category>
       <description>There is an increasing interest in the presence of contaminants in the environment and how these are taken up in food webs. This issue is particularly important to land-based communities who rely directly on the land for access to culturally and nutritionally important country foods (e.g., through hunting, fishing, harvesting/gathering, etc.). This dataset shares data and metadata from a review…</description>
-    </item>
-    <item>
-      <title>A Retrospective Study of Smart Spot, a Bluetooth Low‑Energy Real‑Time Location System Supporting Quality Improvement Efforts in Uganda</title>
-      <link>https://doi.org/10.5683/SP3/MBNY9S</link>
-      <guid isPermaLink="false">doi:10.5683/SP3/MBNY9S</guid>
-      <pubDate>Tue, 13 Oct 2026 15:36:34 +0000</pubDate>
-      <dc:creator>Choi, Daniel; Tugume, Ediketh; Mwesigye, Isaac et al.</dc:creator>
-      <category>Smart Triage - Manuscripts</category>
-      <description>Background: Real-time location systems track the movement of assets and individuals and in high-income clinical settings, they have shown potential to improve patient flow. However, their use in low- and middle-income countries remains limited. Smart Spot, a low-cost Bluetooth Low-Energy real-time location system was integrated and deployed within the Smart Triage quality improvement platform in…</description>
     </item>
   </channel>
 </rss>
