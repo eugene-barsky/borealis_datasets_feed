@@ -5,7 +5,43 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:28:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:32:11 +0000</lastBuildDate>
+    <item>
+      <title>Data from: Linking predator-prey diel activity to the timing of predation</title>
+      <link>https://doi.org/10.5683/SP4/HNK8K4</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/HNK8K4</guid>
+      <pubDate>Thu, 19 Nov 2026 16:52:57 +0000</pubDate>
+      <dc:creator>Gaynor, Kaitlyn; Ferraro, Kristy; Smith, Justine et al.</dc:creator>
+      <category>UBC Dryad2Dataverse</category>
+      <description>Abstract This dataset contains a NetLogo program for running the Agent-Based Model presented in the manuscript, results of the simulations presented in the manuscript, and R code for summarizing these results and reproducing figures. Manuscript abstract: Time is a key ecological resource, and the partitioning of time among species can stabilize ecological interactions, including predation. Over…</description>
+    </item>
+    <item>
+      <title>Data and code from: Local and landscape drivers of wintering Neotropical migratory bird communities in Oaxaca, Mexico</title>
+      <link>https://doi.org/10.5683/SP4/UHJVTK</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/UHJVTK</guid>
+      <pubDate>Thu, 19 Nov 2026 16:49:41 +0000</pubDate>
+      <dc:creator>Wilson, Scott; Gómez-Villaverde, Sergio; English, Simon et al.</dc:creator>
+      <category>UBC Dryad2Dataverse</category>
+      <description>Abstract The dataset includes bird point count information collected with distance sampling, survey-level information and site-level environmental covariates from a three-year study (2020-2022) of overwintering migratory birds in Oaxaca, Mexico. The data were collected to investigate the influence of local habitat characteristics, landscape-level forest cover, elevation and clustering behaviour…</description>
+    </item>
+    <item>
+      <title>Data from: Earlier and increased growth of tundra willows after a decade of growth in a warmer common garden environment</title>
+      <link>https://doi.org/10.5683/SP4/UXMOAJ</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/UXMOAJ</guid>
+      <pubDate>Thu, 19 Nov 2026 16:45:20 +0000</pubDate>
+      <dc:creator>Anderson, Madelaine Jean Robertson; Myers-Smith, Isla H.; Zaja, Erica et al.</dc:creator>
+      <category>UBC Dryad2Dataverse</category>
+      <description>Abstract Capturing the pace of plant responses to global change depends critically on disentangling the processes underlying trait change, because plastic responses to the environment can be faster, while genetic adaptation progresses more slowly. Given that the Arctic is warming rapidly, and woody shrubs are the canopy-forming species in tundra ecosystems, understanding if shrubs will respond…</description>
+    </item>
+    <item>
+      <title>Data from: Evolutionary rescue in a consumer-resource system</title>
+      <link>https://doi.org/10.5683/SP4/FZCKDM</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/FZCKDM</guid>
+      <pubDate>Thu, 19 Nov 2026 16:26:22 +0000</pubDate>
+      <dc:creator>Hasan, Asad; Whitlock, Michael</dc:creator>
+      <category>UBC Dryad2Dataverse</category>
+      <description>Abstract Evolutionary rescue refers to the process by which a population that is declining towards extinction due to an environmental stressor adapts to said stressor, recovering in population size. Previous models of evolutionary rescue have typically modelled density-dependence using simple logistic growth-type models, assuming that an environmental change either affects the intrinsic growth…</description>
+    </item>
     <item>
       <title>Supplemental data for: Cell death and growth dynamics shape DNA-replication-based estimates of microbial growth</title>
       <link>https://doi.org/10.5683/SP3/QXMR2I</link>
@@ -149,42 +185,6 @@
       <dc:creator>Therriault, Isabelle; Larson, Kyle; Jouhari, Mehdi et al.</dc:creator>
       <category>UBC General Research Data Collection</category>
       <description>The late-stage tectonometamorphic evolution of the Paleoproterozoic Ungava orogen (UO), a segment of the Trans-Hudson orogen, remains poorly understood due to limited structural and geochronological data. This study presents new, integrated field-based mapping, microstructural characterization, thermometry, apatite and biotite trace element analysis, and in situ U-Pb and Rb-Sr geochronology to…</description>
-    </item>
-    <item>
-      <title>Data for: Mediterranean-ketogenic versus medium-chain triglyceride supplemented Mediterranean diet on the gut-brain-immune axis in Parkinson’s disease</title>
-      <link>https://doi.org/10.5683/SP4/EKV3YZ</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/EKV3YZ</guid>
-      <pubDate>Mon, 26 Oct 2026 21:10:04 +0000</pubDate>
-      <dc:creator>Tosefsky, Kira; Schaffner, Samantha L.; Lam, Joyce S.T. et al.</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>Ketogenic diets have been proposed as potential neuroprotective interventions for Parkinson’s disease (PD), but concerns remain regarding their effects on the gut microbiome and gut–brain–immune axis. We conducted a randomized crossover trial comparing 8-week Mediterranean-ketogenic (MeDi-KD) versus medium-chain triglyceride-supplemented Mediterranean (MeDi-MCT) diets, separated by an 8-week…</description>
-    </item>
-    <item>
-      <title>Data and Code for "Staying warm takes precedence over growth in developing thirteen-lined ground squirrels (Ictidomys tridecemlineatus)"</title>
-      <link>https://doi.org/10.5683/SP4/U4T3XN</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/U4T3XN</guid>
-      <pubDate>Thu, 15 Oct 2026 22:40:59 +0000</pubDate>
-      <dc:creator>Li, Jessica L.; Marshall, Katie E.; Milsom, William K.</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>Endogenous thermogenesis enables animals to regulate body temperature (TB) independent of environmental temperature. Altricial mammals are born ectotherms and develop endothermy postnatally. We hypothesized that the development of cold-induced endogenous thermogenesis would be metabolically demanding, and its timing in thirteen-lined ground squirrels (Ictidomys tridecemlineatus) would correlate…</description>
-    </item>
-    <item>
-      <title>Simulated data from: Evolutionary rescue in a consumer-resource system</title>
-      <link>https://doi.org/10.5683/SP4/FZCKDM</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/FZCKDM</guid>
-      <pubDate>Thu, 15 Oct 2026 16:26:11 +0000</pubDate>
-      <dc:creator>Hasan, Asad; Whitlock, Michael</dc:creator>
-      <category>UBC Dryad2Dataverse</category>
-      <description>Abstract Evolutionary rescue refers to the process by which a population that is declining towards extinction due to an environmental stressor adapts to said stressor, recovering in population size. Previous models of evolutionary rescue have typically modelled density-dependence using simple logistic growth-type models, assuming that an environmental change either affects the intrinsic growth…</description>
-    </item>
-    <item>
-      <title>Experimental Data for: Axial Cyclic Behaviour of Ultra-Ductile Connections for Precast Concrete Shear Walls</title>
-      <link>https://doi.org/10.5683/SP4/DCUS2Y</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/DCUS2Y</guid>
-      <pubDate>Wed, 14 Oct 2026 16:15:25 +0000</pubDate>
-      <dc:creator>Büker, Frank; Tobber, Lisa; Rodgers, Geoffrey</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>This repository contains experimental data from a test campaign investigating the cyclic performance of a novel ultra-ductile connector (UltraDC) developed for horizontal joints in precast concrete shear walls. The UltraDC consists of a cruciform steel yielding element housed within a hollow outer steel sleeve, which provides lateral restraint against buckling and serves as an anchorage mechanism…</description>
     </item>
   </channel>
 </rss>
