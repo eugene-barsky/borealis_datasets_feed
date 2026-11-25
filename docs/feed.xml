@@ -5,7 +5,16 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 23 Nov 2026 23:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:39:19 +0000</lastBuildDate>
+    <item>
+      <title>University of British Columbia Library guide: Directory structures</title>
+      <link>https://doi.org/10.5683/SP4/ARNQNC</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/ARNQNC</guid>
+      <pubDate>Wed, 25 Nov 2026 21:35:43 +0000</pubDate>
+      <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This practical guide, created by the University of British Columbia (UBC) Library Research Data Management team, focuses on strategies for organizing research data using clear and logical directory structures. Designed for graduate students, researchers, and staff, the guide helps users manage files more effectively to support collaboration, reproducibility, and long-term data stewardship. Users…</description>
+    </item>
     <item>
       <title>Data from: Linking predator-prey diel activity to the timing of predation</title>
       <link>https://doi.org/10.5683/SP4/HNK8K4</link>
@@ -52,13 +61,13 @@
       <description>A widely used approach for estimating bacterial growth rates is the origin-to-terminus ratio, or peak-to-trough ratio (PTR), which estimates DNA replication activity from origin and terminus copy numbers. Although PTR is theoretically related to bacterial growth rate, it is often compared with, or used to reason about, changes in population size, which reflect the balance between cell division…</description>
     </item>
     <item>
-      <title>UBC Library guide: README files</title>
+      <title>University of British Columbia Library guide: README files</title>
       <link>https://doi.org/10.5683/SP4/VCP9BO</link>
       <guid isPermaLink="false">doi:10.5683/SP4/VCP9BO</guid>
       <pubDate>Wed, 18 Nov 2026 03:05:17 +0000</pubDate>
       <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
       <category>UBC Library Research Data Management Open Educational Resources</category>
-      <description>This guide, created by the UBC Library Research Data Management team, introduces the importance of README files in documenting research data for long-term access and reuse. Designed for graduate students, researchers, and staff, the guide provides practical guidance for creating clear, consistent, and useful data documentation. Users will learn how to identify the key components of an effective…</description>
+      <description>This guide, created by the University of British Columbia (UBC) Library Research Data Management team, introduces the importance of README files in documenting research data for long-term access and reuse. Designed for graduate students, researchers, and staff, the guide provides practical guidance for creating clear, consistent, and useful data documentation. Users will learn how to identify the…</description>
     </item>
     <item>
       <title>Supplemental material for: Post-partum mood states of dairy cows: effects of separation from the calf and consistency over time</title>
@@ -79,13 +88,13 @@
       <description>This practical guide, created by the University of British Columbia (UBC) Library Research Data Management team, introduces strategies for consistent and meaningful file naming to support better research organization, collaboration, and long-term data reuse. Designed for graduate students, researchers, and staff, this guide helps researchers avoid common pitfalls and adopt best practices in their…</description>
     </item>
     <item>
-      <title>UBC Library guide: File formats</title>
+      <title>University of British Columbia Library guide: File formats</title>
       <link>https://doi.org/10.5683/SP4/TQN4SZ</link>
       <guid isPermaLink="false">doi:10.5683/SP4/TQN4SZ</guid>
       <pubDate>Sat, 14 Nov 2026 00:12:30 +0000</pubDate>
       <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
       <category>UBC Library Research Data Management Open Educational Resources</category>
-      <description>This practical guide, created by the UBC Library Research Data Management team, explores how selecting the right file formats can support long-term preservation, data sharing, and reuse. Designed for graduate students, researchers, and staff, the guide highlights best practices for choosing formats that align with FAIR data principles. Users will learn how to identify preferred file formats for…</description>
+      <description>This practical guide, created by the University of British Columbia (UBC) Library Research Data Management team, explores how selecting the right file formats can support long-term preservation, data sharing, and reuse. Designed for graduate students, researchers, and staff, the guide highlights best practices for choosing formats that align with FAIR data principles. Users will learn how to…</description>
     </item>
     <item>
       <title>Data and code from: Is it a "hybrid swarm"? Opportunities for more informative terminology in conservation genomics</title>
@@ -176,15 +185,6 @@
       <dc:creator>Eng, Janice</dc:creator>
       <category>Janice Eng's Dataverse</category>
       <description>This dataset is for the article entitled: “Adopting stroke-specific community-based exercise programs and hospital referral pathways: an implementation study of the Fitness and Mobility Exercise (FAME) Program”. Contact: Dr. Janice Eng, Department of Physical Therapy, UBC. 212-2177 Wesbrook Mall, Vancouver, BC, V6T 1Z3. Tel: 604-714-4117.</description>
-    </item>
-    <item>
-      <title>Supplementary Data for: Late-to-Post Trans-Hudson Evolution of the Narsajuaq Domain, Ungava Orogen, Northern Québec, Canada</title>
-      <link>https://doi.org/10.5683/SP4/WLKTRW</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/WLKTRW</guid>
-      <pubDate>Tue, 27 Oct 2026 21:43:41 +0000</pubDate>
-      <dc:creator>Therriault, Isabelle; Larson, Kyle; Jouhari, Mehdi et al.</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>The late-stage tectonometamorphic evolution of the Paleoproterozoic Ungava orogen (UO), a segment of the Trans-Hudson orogen, remains poorly understood due to limited structural and geochronological data. This study presents new, integrated field-based mapping, microstructural characterization, thermometry, apatite and biotite trace element analysis, and in situ U-Pb and Rb-Sr geochronology to…</description>
     </item>
   </channel>
 </rss>
