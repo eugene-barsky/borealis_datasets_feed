@@ -5,9 +5,27 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 26 Nov 2026 08:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:28:15 +0000</lastBuildDate>
     <item>
-      <title>Depositing data in University of British Columbia Borealis: Admins only</title>
+      <title>Data for: Patterns of carabid beetle and spider diversity, community composition and functional traits in semi-arid Okanagan vineyard and adjacent semi-natural habitats</title>
+      <link>https://doi.org/10.5683/SP4/KAARFR</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/KAARFR</guid>
+      <pubDate>Thu, 26 Nov 2026 18:42:47 +0000</pubDate>
+      <dc:creator>Friesen, Hannah; Mayes, Jessica; Ensing, David J. et al.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>Agricultural expansion has contributed to habitat fragmentation and biodiversity loss, yet agricultural landscapes may support biodiversity by retaining and enhancing semi-natural habitats (SNH). Vineyard biodiversity research usually focuses on within-field communities, while few studies compare vineyard communities with those in adjacent SNH. Here, ground-dwelling carabid beetles (Carabidae)…</description>
+    </item>
+    <item>
+      <title>Data for: Ground-dwelling natural enemy abundance and diversity in relation to local management and landscape heterogeneity in semi-arid vineyards</title>
+      <link>https://doi.org/10.5683/SP4/AEB6NI</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/AEB6NI</guid>
+      <pubDate>Thu, 26 Nov 2026 18:42:07 +0000</pubDate>
+      <dc:creator>Friesen, Hannah; Mayes, Jessica; Ensing, David J. et al.</dc:creator>
+      <category>UBC General Research Data Collection</category>
+      <description>As vineyards expand into regions of high conservation value, identifying management practices that mitigate their impacts on biodiversity is increasingly important. Here, we explore how ground-dwelling natural enemies vary in relation to organic or conventional management, local vegetation complexity, and surrounding landscape heterogeneity. We sampled spiders (Arachnida: Araneae) and carabid…</description>
+    </item>
+    <item>
+      <title>Depositing data in University of British Columbia Borealis: Administrators guide</title>
       <link>https://doi.org/10.5683/SP4/DQSLEF</link>
       <guid isPermaLink="false">doi:10.5683/SP4/DQSLEF</guid>
       <pubDate>Wed, 25 Nov 2026 22:03:39 +0000</pubDate>
@@ -167,24 +185,6 @@
       <dc:creator>Sheng, Kehan Sky; Borbala Foris; Daniel M. Weary et al.</dc:creator>
       <category>UBC General Research Data Collection</category>
       <description>Individual animals can differ considerably in how they feed, drink, and compete for resources, yet much data analysis still relies on group-level comparisons that obscure these individual differences. Electronic feeding and drinking systems make it possible to characterize individual behavioral profiles within groups. Using 107 lactating Holstein dairy cows tracked over 207 d, we extracted 16…</description>
-    </item>
-    <item>
-      <title>Replication Data for: moo4feed R package</title>
-      <link>https://doi.org/10.5683/SP3/LF4DRO</link>
-      <guid isPermaLink="false">doi:10.5683/SP3/LF4DRO</guid>
-      <pubDate>Tue, 10 Nov 2026 19:18:16 +0000</pubDate>
-      <dc:creator>Sheng, Kehan Sky; Borbala Foris; Daniel M. Weary et al.</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>Individual animals can differ considerably in how they feed, drink, and compete for resources, yet much data analysis still relies on group-level comparisons that obscure these individual differences. Electronic feeding and drinking systems make it possible to characterize individual behavioral profiles within groups. Using 107 lactating Holstein dairy cows tracked over 207 d, we extracted 16…</description>
-    </item>
-    <item>
-      <title>MMNRP French Metaphor Repository</title>
-      <link>https://doi.org/10.5683/SP4/3WGTJ7</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/3WGTJ7</guid>
-      <pubDate>Sun, 08 Nov 2026 05:50:59 +0000</pubDate>
-      <dc:creator>Stickles, Elise</dc:creator>
-      <category>MetaNet: The UBC Multilingual Metaphor Network Repository Project</category>
-      <description>French-language data from the UBC MMNRP French Metaphor Repository. Example data comes from sources in Canada and France, collected between 2022-2026. Types of data sources include news media, social media, fiction, and non-fiction texts. Manual annotation of each example text identifies the source domain-evoking language within the example and the provenance of the data, including a permanent…</description>
     </item>
   </channel>
 </rss>
