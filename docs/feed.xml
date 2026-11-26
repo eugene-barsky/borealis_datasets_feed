@@ -5,7 +5,61 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:39:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:12:31 +0000</lastBuildDate>
+    <item>
+      <title>Depositing data in University of British Columbia Borealis: Admins only</title>
+      <link>https://doi.org/10.5683/SP4/DQSLEF</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/DQSLEF</guid>
+      <pubDate>Wed, 25 Nov 2026 22:03:39 +0000</pubDate>
+      <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This guide will help users with specific permissions (such as data managers or curators) navigate Borealis to customize and control how their Dataverse (AKA "collection") looks and functions. Users will explore Borealis features such as creating and editing a collection, controlling access and editing permissions, setting up metadata entry templates, and more.</description>
+    </item>
+    <item>
+      <title>Depositing data in University of British Columbia Borealis: Extended guide</title>
+      <link>https://doi.org/10.5683/SP4/DX8VQ3</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/DX8VQ3</guid>
+      <pubDate>Wed, 25 Nov 2026 21:52:01 +0000</pubDate>
+      <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This guide, created by the University of British Columbia (UBC) Library Research Data Management team, leads users through the process of depositing datasets into the UBC Borealis collection. Designed for graduate students, researchers, and staff, the guide provides extra tips for sharing and preserving data in alignment with institutional and funder requirements. Users will learn additional…</description>
+    </item>
+    <item>
+      <title>Depositing data in University of British Columbia Borealis: Quick guide</title>
+      <link>https://doi.org/10.5683/SP4/PTWBEX</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/PTWBEX</guid>
+      <pubDate>Wed, 25 Nov 2026 21:50:14 +0000</pubDate>
+      <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This short guide, created by the University of British Columbia (UBC) Library Research Data Management team, walks users through the process of depositing datasets into the UBC Borealis collection. Designed for graduate students, researchers, and staff, the guide emphasizes best practices for sharing and preserving data in alignment with institutional and funder requirements. Users will learn how…</description>
+    </item>
+    <item>
+      <title>Depositing data in University of British Columbia Borealis: Role allocation</title>
+      <link>https://doi.org/10.5683/SP4/PSNEHZ</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/PSNEHZ</guid>
+      <pubDate>Wed, 25 Nov 2026 21:47:45 +0000</pubDate>
+      <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This guide will help collection administrators control access and editing permissions for other users. As an extension of the University of British Columbia (UBC) Borealis guide for administrators, this guide outlines various roles with different levels of permissions commonly assigned to users. It also provides some examples of self-managed UBC Borealis collections.</description>
+    </item>
+    <item>
+      <title>University of British Columbia Library guide: Licenses for research data</title>
+      <link>https://doi.org/10.5683/SP4/0MNWFS</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/0MNWFS</guid>
+      <pubDate>Wed, 25 Nov 2026 21:43:54 +0000</pubDate>
+      <dc:creator>Barsky, Eugene; Choy, Vanessa</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This guide, created by the University of British Columbia (UBC) Library Research Data Management team, explores how licensing supports responsible sharing, reuse, and attribution of research data. Aimed at graduate students, researchers, and staff, the guide highlights best practices for applying data licenses that align with FAIR and open science principles within the Canadian data landscape.…</description>
+    </item>
+    <item>
+      <title>University of British Columbia Library guide: Data dictionaries</title>
+      <link>https://doi.org/10.5683/SP4/PUCDI0</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/PUCDI0</guid>
+      <pubDate>Wed, 25 Nov 2026 21:40:30 +0000</pubDate>
+      <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This practical guide, created by the University of British Columbia (UBC) Library Research Data Management team, introduces the purpose and structure of a data dictionary to support clear, consistent, and reusable research data. Designed for graduate students, researchers, and staff, the guide emphasizes how data dictionaries enhance data documentation, sharing, and reuse. Users will learn how to…</description>
+    </item>
     <item>
       <title>University of British Columbia Library guide: Directory structures</title>
       <link>https://doi.org/10.5683/SP4/ARNQNC</link>
@@ -131,60 +185,6 @@
       <dc:creator>Stickles, Elise</dc:creator>
       <category>MetaNet: The UBC Multilingual Metaphor Network Repository Project</category>
       <description>French-language data from the UBC MMNRP French Metaphor Repository. Example data comes from sources in Canada and France, collected between 2022-2026. Types of data sources include news media, social media, fiction, and non-fiction texts. Manual annotation of each example text identifies the source domain-evoking language within the example and the provenance of the data, including a permanent…</description>
-    </item>
-    <item>
-      <title>MMNRP Spanish Metaphor Repository</title>
-      <link>https://doi.org/10.5683/SP4/WHQPNG</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/WHQPNG</guid>
-      <pubDate>Sun, 08 Nov 2026 05:50:46 +0000</pubDate>
-      <dc:creator>Stickles, Elise</dc:creator>
-      <category>MetaNet: The UBC Multilingual Metaphor Network Repository Project</category>
-      <description>Spanish-language data from the UBC MMNRP Spanish Metaphor Repository. Example data comes from American (United States) and Mexican sources, collected between 2012-2026. Types of data sources include news media, social media, fiction, and non-fiction texts. Manual annotation of each example text identifies the source domain-evoking language within the example and the provenance of the data,…</description>
-    </item>
-    <item>
-      <title>MMNRP English Metaphor Repository</title>
-      <link>https://doi.org/10.5683/SP4/E1Z4QQ</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/E1Z4QQ</guid>
-      <pubDate>Sun, 08 Nov 2026 05:50:07 +0000</pubDate>
-      <dc:creator>Stickles, Elise</dc:creator>
-      <category>MetaNet: The UBC Multilingual Metaphor Network Repository Project</category>
-      <description>English-language data from the UBC MMNRP English Metaphor Repository. Example data comes from American (United States) and Canadian sources, collected between 2012-2026. Types of data sources include news media, social media, fiction, and non-fiction texts. Manual annotation of each example text identifies the source domain-evoking language within the example; a basic constructional analysis;…</description>
-    </item>
-    <item>
-      <title>Data for: Checklist of non-fish marine species from the Saint Pierre and Miquelon archipelago</title>
-      <link>https://doi.org/10.5683/SP4/FW0YBA</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/FW0YBA</guid>
-      <pubDate>Thu, 05 Nov 2026 23:48:30 +0000</pubDate>
-      <dc:creator>Rossi, Anna Luna; Pauly, Daniel; Bailly, Nicolas et al.</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>Saint Pierre and Miquelon (SPM), a sub-Arctic French archipelago on the Grand Banks of Newfoundland, hosts a dynamic marine ecosystem shaped by strong thermal stratification and contrasting oceanographic regimes. Despite its ecological importance and long history of fisheries, marine biodiversity in SPM has remained poorly documented in global databases. This study compiles the first…</description>
-    </item>
-    <item>
-      <title>Data from: Collaborative camera-trap detection data set for pumas across Latin America</title>
-      <link>https://doi.org/10.5683/SP4/KDEB13</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/KDEB13</guid>
-      <pubDate>Thu, 05 Nov 2026 22:02:36 +0000</pubDate>
-      <dc:creator>Ohrens, Omar; Williams, Sara; Elbroch, L. Mark et al.</dc:creator>
-      <category>UBC Dryad2Dataverse</category>
-      <description>Abstract This dataset comprises a comprehensive collection of puma (Puma concolor) detections obtained from camera-trap surveys across Latin America, encompassing over 1,169,563 camera trap nights across 19 countries, spanning from northern Sonora, Mexico, to southern Patagonia, Chile. The compiled dataset includes 12,312 unique puma detections, together with associated sampling metadata and…</description>
-    </item>
-    <item>
-      <title>Data from: Showy milkweed (&lt;em&gt;Asclepias speciosa&lt;/em&gt;) distribution and insect community composition at the northern range of the western monarch butterfly (&lt;em&gt;Danaus plexippus&lt;/em&gt;)</title>
-      <link>https://doi.org/10.5683/SP4/PNLVAM</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/PNLVAM</guid>
-      <pubDate>Thu, 29 Oct 2026 18:33:39 +0000</pubDate>
-      <dc:creator>Sieg, Julie; Dixon, Cori; Elwell, Sue et al.</dc:creator>
-      <category>UBC Dryad2Dataverse</category>
-      <description>Abstract The monarch butterfly (Danaus plexippus) is one of the most iconic butterflies worldwide. Alarmingly, the North American population has declined steadily over the last three decades. The western population in particular has fallen substantially from overwintering numbers in the millions to less than 10,000. Most research on monarch butterfly ecology has focused on the eastern population.…</description>
-    </item>
-    <item>
-      <title>Replication Data for: “Adopting stroke-specific community-based exercise programs and hospital referral pathways: an implementation study of the Fitness and Mobility Exercise (FAME) Program”</title>
-      <link>https://doi.org/10.5683/SP4/0N1LOA</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/0N1LOA</guid>
-      <pubDate>Thu, 29 Oct 2026 17:37:30 +0000</pubDate>
-      <dc:creator>Eng, Janice</dc:creator>
-      <category>Janice Eng's Dataverse</category>
-      <description>This dataset is for the article entitled: “Adopting stroke-specific community-based exercise programs and hospital referral pathways: an implementation study of the Fitness and Mobility Exercise (FAME) Program”. Contact: Dr. Janice Eng, Department of Physical Therapy, UBC. 212-2177 Wesbrook Mall, Vancouver, BC, V6T 1Z3. Tel: 604-714-4117.</description>
     </item>
   </channel>
 </rss>
