@@ -5,7 +5,34 @@
     <link>https://borealisdata.ca/dataverse/ubc</link>
     <description>The newest datasets published in the UBC collection on Borealis.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 26 Nov 2026 21:28:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:14:34 +0000</lastBuildDate>
+    <item>
+      <title>University of British Columbia Library guide: Data de-identification (Methods)</title>
+      <link>https://doi.org/10.5683/SP4/SZYQND</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/SZYQND</guid>
+      <pubDate>Fri, 27 Nov 2026 15:52:43 +0000</pubDate>
+      <dc:creator>Barsky, Eugene; Choy, Vanessa</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This practical guide, created by the University of British Columbia (UBC) Library Research Data Management team, is the second part in a four‑part series on de-identifying and preparing sensitive data for responsible research use and sharing. Building on the concepts introduced in the first guide, Introduction to data de-identification, this guide focuses on applied manual techniques for…</description>
+    </item>
+    <item>
+      <title>University of British Columbia Library guide: Data de-identification (Introduction)</title>
+      <link>https://doi.org/10.5683/SP4/BNDP6Z</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/BNDP6Z</guid>
+      <pubDate>Fri, 27 Nov 2026 15:51:29 +0000</pubDate>
+      <dc:creator>Barsky, Eugene; Choy, Vanessa</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This practical guide, created by the University of British Columbia (UBC) Library Research Data Management team, is the first part of a four‑part series on anonymizing and preparing sensitive data for responsible research use and sharing. This introductory guide focuses on core concepts, terminology, and conceptual frameworks that underpin data de-identification practices across disciplines.…</description>
+    </item>
+    <item>
+      <title>University of British Columbia Library guide: Simplified data management plans (Pre-award)</title>
+      <link>https://doi.org/10.5683/SP4/KQMRBP</link>
+      <guid isPermaLink="false">doi:10.5683/SP4/KQMRBP</guid>
+      <pubDate>Fri, 27 Nov 2026 15:49:51 +0000</pubDate>
+      <dc:creator>Barsky, Eugene</dc:creator>
+      <category>UBC Library Research Data Management Open Educational Resources</category>
+      <description>This quick guide helps researchers write a concise, funder-ready data management plan (DMP) at the grant application (pre-award) stage. It was created by the University of British Columbia (UBC) Research Data Management team for graduate students, faculty and research teams in all disciplines. More and more funders ask for a DMP as part of the application. Under the Tri-Agency Research Data…</description>
+    </item>
     <item>
       <title>Data for: Patterns of carabid beetle and spider diversity, community composition and functional traits in semi-arid Okanagan vineyard and adjacent semi-natural habitats</title>
       <link>https://doi.org/10.5683/SP4/KAARFR</link>
@@ -158,33 +185,6 @@
       <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
       <category>UBC Library Research Data Management Open Educational Resources</category>
       <description>This practical guide, created by the University of British Columbia (UBC) Library Research Data Management team, introduces strategies for consistent and meaningful file naming to support better research organization, collaboration, and long-term data reuse. Designed for graduate students, researchers, and staff, this guide helps researchers avoid common pitfalls and adopt best practices in their…</description>
-    </item>
-    <item>
-      <title>University of British Columbia Library guide: File formats</title>
-      <link>https://doi.org/10.5683/SP4/TQN4SZ</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/TQN4SZ</guid>
-      <pubDate>Sat, 14 Nov 2026 00:12:30 +0000</pubDate>
-      <dc:creator>Barsky, Eugene; Hu, Billie; Choy, Vanessa</dc:creator>
-      <category>UBC Library Research Data Management Open Educational Resources</category>
-      <description>This practical guide, created by the University of British Columbia (UBC) Library Research Data Management team, explores how selecting the right file formats can support long-term preservation, data sharing, and reuse. Designed for graduate students, researchers, and staff, the guide highlights best practices for choosing formats that align with FAIR data principles. Users will learn how to…</description>
-    </item>
-    <item>
-      <title>Data and code from: Is it a "hybrid swarm"? Opportunities for more informative terminology in conservation genomics</title>
-      <link>https://doi.org/10.5683/SP4/MUXE7K</link>
-      <guid isPermaLink="false">doi:10.5683/SP4/MUXE7K</guid>
-      <pubDate>Thu, 12 Nov 2026 19:07:50 +0000</pubDate>
-      <dc:creator>Campbell, Jillian N.; Mandeville, Elizabeth G.; Lewis, Nathan C. et al.</dc:creator>
-      <category>UBC Dryad2Dataverse</category>
-      <description>Abstract Hybridization is common in wild taxa, which may cause conservation concerns if hybridization occurs following disturbance or species introductions. High throughput DNA sequencing makes genomic analysis of many individuals feasible, vastly improving and promoting more studies on hybridization. However, more precise genomic identification of hybrids has not always extended to more precise…</description>
-    </item>
-    <item>
-      <title>Replication Data for: Decoding individual dairy cow behavioral profiles through electronic feeder and drinker data</title>
-      <link>https://doi.org/10.5683/SP3/K6J350</link>
-      <guid isPermaLink="false">doi:10.5683/SP3/K6J350</guid>
-      <pubDate>Tue, 10 Nov 2026 19:21:59 +0000</pubDate>
-      <dc:creator>Sheng, Kehan Sky; Borbala Foris; Daniel M. Weary et al.</dc:creator>
-      <category>UBC General Research Data Collection</category>
-      <description>Individual animals can differ considerably in how they feed, drink, and compete for resources, yet much data analysis still relies on group-level comparisons that obscure these individual differences. Electronic feeding and drinking systems make it possible to characterize individual behavioral profiles within groups. Using 107 lactating Holstein dairy cows tracked over 207 d, we extracted 16…</description>
     </item>
   </channel>
 </rss>
